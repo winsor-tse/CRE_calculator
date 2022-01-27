@@ -1,0 +1,8 @@
+{
+    "Net_Operating_Income" : 100000,
+    "NOI_Growth" : 3.00,
+    "Exit_Cap_Rate": 6.00,
+    "Hold_Period": 10,
+    "Discount_Rate": 7.0,
+    "Cost_of_Sales": 2.0
+}
