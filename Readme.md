@@ -1,5 +1,5 @@
 
-##CRE Calculator
+## CRE Calculator
 The user inputs all the required data and get property present value using Discounted Cash Flow (DCF) methodology.
 Inputs:
 Input
